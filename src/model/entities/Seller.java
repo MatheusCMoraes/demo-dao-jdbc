@@ -52,7 +52,7 @@ public class Seller implements Serializable{
 		this.email = email;
 	}
 
-	public Date getBirhDate() {
+	public Date getBirthDate() {
 		return birthDate;
 	}
 
