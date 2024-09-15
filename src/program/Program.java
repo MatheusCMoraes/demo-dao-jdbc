@@ -18,6 +18,7 @@ public class Program {
 		
 		try {
 			
+			
 			conn = DB.getConnection();
 			
 			conn.setAutoCommit(false);
